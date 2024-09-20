@@ -1,0 +1,14 @@
+.calculadora {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+}
+
+input {
+    width: 100px;
+    margin: 5px;
+}
+
+button {
+    padding: 10px 20px;
+}
